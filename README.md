@@ -1,4 +1,4 @@
-# Next.js boilerplate (vitest + react testing library (with jest dom) + tailwindcss + eslint + prettier + husky + commitlint)
+# Next.js boilerplate
 
 This is a Next.js boilerplate that comes with the following features:
 
@@ -10,7 +10,7 @@ This is a Next.js boilerplate that comes with the following features:
 - [Husky](https://typicode.github.io/husky/#/) for Git hooks (like pre-commit for automatically lint your commit messages, code, and run tests upon committing or pushing).
 - [Commitlint](https://commitlint.js.org/) for commit message linting
 
-## New options applied (after initializing libraries)
+## Intencional options applied
 
 ### React Testing Library (with Jest DOM)
 
